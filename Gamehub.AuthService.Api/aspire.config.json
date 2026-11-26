@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "Gamehub.AuthService.Api.AppHost/Gamehub.AuthService.Api.AppHost.csproj"
+  }
+}

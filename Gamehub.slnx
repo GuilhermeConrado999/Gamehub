@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Gamehub.AuthService/">
+    <Project Path="Gamehub.AuthService.Api/Gamehub.AuthService.Api.Server/Gamehub.AuthService.Api.Server.csproj" />
+  </Folder>
+  <Folder Name="/Gamehub.Monolith/">
+    <Project Path="Gamehub.Api/Gamehub.Api.Server/Gamehub.Api.Server.csproj" />
+    <Project Path="Gamehub.Application/Gamehub.Application.csproj" />
+    <Project Path="Gamehub.Domain/Gamehub.Domain.csproj" />
+    <Project Path="Gamehub.Infrasctructure/Gamehub.Infrasctructure.csproj" />
+  </Folder>
+</Solution>
